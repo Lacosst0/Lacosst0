@@ -5,7 +5,7 @@
     </summary>
   </ul>
 </div>
-<img src="https://imgur.com/a/HcXFjqP"  align="right" width="400px" />
+<img src="https://i.imgur.com/BvaRuIm.png" align="right" width="400px" />
 
 
 - 🌟 Elegant > Simple
